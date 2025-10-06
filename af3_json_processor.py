@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-AlphaFold Job Processor
+AlphaFold 3 JSON Processor
 
-This script processes CSV input files containing AlphaFold job specifications and outputs:
-1. JSON files suitable for AlphaFold server upload (grouped by configurable batch size)
+This script processes CSV input files containing AlphaFold 3 job specifications and outputs:
+1. JSON files suitable for AlphaFold 3 Server upload (grouped by configurable batch size)
 2. CSV file mapping jobs to their output JSON files with token calculations
 
 Features:
@@ -13,6 +13,8 @@ Features:
 - Automatic seed number generation
 - Batch processing with configurable JSON file sizes
 - Uses CSV reference file (no Excel dependencies needed)
+
+GitHub: https://github.com/JKourelis/af3_json_processor
 """
 
 import pandas as pd

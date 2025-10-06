@@ -1,6 +1,6 @@
-# AlphaFold Job Processor
+# AlphaFold 3 JSON Processor
 
-A lightweight Python tool for processing CSV files containing AlphaFold job specifications and converting them to JSON format suitable for AlphaFold server upload.
+A lightweight Python tool for processing CSV files containing AlphaFold 3 job specifications and converting them to JSON format suitable for AlphaFold 3 Server upload.
 
 ## Features
 
@@ -16,8 +16,8 @@ A lightweight Python tool for processing CSV files containing AlphaFold job spec
 
 1. Clone the repository:
 ```
-git clone <repository-url>
-cd alphafold-job-processor
+git clone https://github.com/JKourelis/af3_json_processor
+cd af3_json_processor
 ```
 
 2. Install required dependencies:
