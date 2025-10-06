@@ -1,0 +1,82 @@
+﻿Type,CCD Code,Name,Target Residue,Molecular Formula,All Atom Count,Heavy Atom Count
+Ligand,ADP,Adenosine-5'-diphosphate,NA,C10H15N5O10P2,32,27
+Ligand,ATP,Adenosine-5'-triphosphate,NA,C10H16N5O13P3,35,32
+Ligand,AMP,Adenosine-5'-monophosphate,NA,C10H14N5O7P,29,23
+Ligand,GTP,Guanosine-5'-triphosphate,NA,C10H16N5O14P3,35,33
+Ligand,GDP,Guanosine-5'-diphosphate,NA,C10H15N5O11P2,32,28
+Ligand,FAD,Flavin adenine dinucleotide,NA,C27H33N9O15P2,86,53
+Ligand,NAD,Nicotinamide adenine dinucleotide,NA,C21H27N7O14P2,71,44
+Ligand,NAP,Nicotinamide adenine dinucleotide phosphate,NA,C21H28N7O17P3,76,48
+Ligand,NDP,Nucleoside diphosphate,NA,C21H28N7O14P2,32,44
+Ligand,HEM,Heme,NA,C34H32FeN4O4,43,43
+Ligand,HEC,Heme C,NA,C34H36N4O4S2,43,44
+Ligand,PLM,Palmitic acid,NA,C16H32O2,54,18
+Ligand,OLA,Oleic acid,NA,C18H34O2,58,20
+Ligand,MYR,Myristic acid,NA,C14H28O2,46,16
+Ligand,CIT,Citric acid,NA,C6H8O7,21,13
+Ligand,CLA,Chlorophyll A,NA,C55H72MgN4O5,137,65
+Ligand,CHL,Chlorophyll B,NA,C55H70MgN4O6,136,66
+Ligand,BCL,Bacteriochlorophyll A,NA,C55H74MgN4O6,139,66
+Ligand,BCB,Bacteriochlorophyll B,NA,C55H72MgN4O7,138,67
+Ion,MG,Magnesium(2+),NA,Mg,1,1
+Ion,ZN,Zinc(2+),NA,Zn,1,1
+Ion,CL,Chloride,NA,Cl,1,1
+Ion,CA,Calcium(2+),NA,Ca,1,1
+Ion,NA,Sodium(1+),NA,Na,1,1
+Ion,MN,Manganese(2+),NA,Mn,1,1
+Ion,K,Potassium(1+),NA,K,1,1
+Ion,FE,Iron(3+),NA,Fe,1,1
+Ion,CU,Copper(2+),NA,Cu,1,1
+Ion,CO,Cobalt(2+),NA,Co,1,1
+PTM,CCD_SEP,Phosphoserine,SER,C3H8NO6P,19,11
+PTM,CCD_TPO,Phosphothreonine,THR,C4H10NO6P,22,12
+PTM,CCD_PTR,O-Phosphotyrosine,TYR,C9H12NO6P,29,17
+PTM,CCD_NEP,N1-Phosphonohistidine,HIS,C6H10N3O6P,25,16
+PTM,CCD_HIP,Phosphohistidine,HIS,C6H10N3O6P,26,16
+PTM,CCD_ALY,N6-Acetyllysine,LYS,C8H16N2O3,16,13
+PTM,CCD_MLY,N6-Methyllysine,LYS,C7H16N2O2,15,11
+PTM,CCD_M3L,"N6,N6,N6-Trimethyllysine",LYS,C9H20N2O2,17,13
+PTM,CCD_MLZ,N6-Methyllysine,LYS,C7H16N2O2,15,11
+PTM,CCD_2MR,"N,N-Dimethylarginine",ARG,C8H18N4O2,18,14
+PTM,CCD_AGM,N-Methylarginine,ARG,C7H16N4O2,16,13
+PTM,CCD_MCS,S-Malonylcysteine,CYS,C6H9NO5S,15,13
+PTM,CCD_HYP,4-Hydroxyproline,PRO,C5H9NO3,11,9
+PTM,CCD_HY3,3-Hydroxylysine,LYS,C6H14N2O3,14,11
+PTM,CCD_LYZ,5-Hydroxyasparagine,ASN,C4H8N2O4,12,10
+PTM,CCD_AHB,S-Palmitoylcysteine,CYS,C19H37NO3S,36,23
+PTM,CCD_P1L,S-Palmitoylcysteine,CYS,C19H37NO3S,36,23
+PTM,CCD_SNN,N-Succinylasparagine,ASN,C8H12N2O6,16,16
+PTM,CCD_SNC,S-Nitrosocysteine,CYS,C3H6N2O3S,9,9
+PTM,CCD_TRF,N-Formyltryptophan,TRP,C12H12N2O3,19,17
+PTM,CCD_KCR,N6-Crotonyllysine,LYS,C10H18N2O3,18,15
+PTM,CCD_CIR,Citrulline,LYS/ARG,C6H13N3O3,12,12
+PTM,CCD_YHA,N-Hydroxyarginine,ARG,C6H14N4O3,12,13
+Glycan,BGC,beta-D-Glucose,ASN/THR/SER,C6H12O6,24,12
+Glycan,BMA,beta-D-Mannose,ASN/THR/SER,C6H12O6,24,12
+Glycan,FUC,alpha-L-Fucose,THR/SER,C6H12O5,22,11
+Glycan,GLC,alpha-D-Glucose,ASN/THR/SER,C6H12O6,24,12
+Glycan,MAN,alpha-D-Mannose,ASN/THR/SER,C6H12O6,24,12
+Glycan,NAG,N-Acetyl-beta-D-glucosamine,ASN/THR/SER,C8H15NO6,30,15
+DNA Mod,CCD_5CM,5-Methylcytosine,DC,C5H7N3O,18,9
+DNA Mod,CCD_C34,Carboxycytosine,DC,C5H5N3O3,16,11
+DNA Mod,CCD_5HC,5-Hydroxycytosine,DC,C4H5N3O2,16,9
+DNA Mod,CCD_6OG,8-Oxoguanine,DG,C5H5N5O2,17,12
+DNA Mod,CCD_6MA,N6-Methyladenine,DA,C6H7N5,17,11
+DNA Mod,CCD_1CC,Carboxycytosine,DC,C5H5N3O3,16,11
+DNA Mod,CCD_8OG,8-Oxoguanine,DG,C5H5N5O2,17,12
+DNA Mod,CCD_5FC,5-Formylcytosine,DC,C5H5N3O2,17,10
+DNA Mod,CCD_3DR,3-Deazaadenine,DA,C6H6N4,15,10
+RNA Mod,CCD_PSU,Pseudouridine,U,C9H12N2O6,14,17
+RNA Mod,CCD_5MC,5-Methylcytosine,C,C10H15N3O5,18,18
+RNA Mod,CCD_OMC,2'-O-Methylcytosine,C,C10H15N3O5,19,18
+RNA Mod,CCD_4OC,4-Thiouridine,C,C9H12N2O5S,15,17
+RNA Mod,CCD_5MU,5-Methyluridine,U,C10H14N2O6,16,18
+RNA Mod,CCD_OMU,2'-O-Methyluridine,U,C10H14N2O6,17,18
+RNA Mod,CCD_UR3,3-(3-Amino-3-carboxypropyl)uridine,U,C13H19N3O8,21,24
+RNA Mod,CCD_A2M,2-Methyladenine,A,C11H15N5O4,17,20
+RNA Mod,CCD_MA6,N6-Methyladenine,A,C11H15N5O4,17,20
+RNA Mod,CCD_6MZ,N6-Methyladenine,A,C11H15N5O4,17,20
+RNA Mod,CCD_2MG,N2-Methylguanine,G,C11H15N5O5,17,21
+RNA Mod,CCD_OMG,2'-O-Methylguanosine,G,C11H15N5O5,19,21
+RNA Mod,CCD_7MG,7-Methylguanine,G,C11H15N5O5,17,21
+RNA Mod,CCD_RSQ,7-Cyano-7-deazaguanosine,G,C12H14N4O5,18,21
